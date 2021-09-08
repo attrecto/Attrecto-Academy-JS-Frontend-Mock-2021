@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "name": "Teszt elek 1",
+      "createdAt": 1601533586590,
+      "id": 1,
+      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "badges": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "name": "Teszt Elek 2",
+      "createdAt": 1601474484684,
+      "id": 2,
+      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "badges": [
+        {
+          "id": 2
+        },
+        {
+          "id": 7
+        }
+      ]
+    },
+    {
+      "name": "Teszt Elek 3",
+      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "createdAt": 1601474487114,
+      "id": 3
+    },
+    {
+      "name": "Teszt Elek 1",
+      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "createdAt": 1601533029860,
+      "id": 4
+    }
+  ],
+  "badges": [
+    {
+      "id": 1,
+      "name": "Junior 1",
+      "description": "Junior 1 developer",
+      "createdAt": 1601533368179
+    },
+    {
+      "id": 2,
+      "name": "Junior 2",
+      "description": "Junior 2 developer",
+      "createdAt": 1601533368279
+    },
+    {
+      "id": 3,
+      "name": "Medior 1",
+      "description": "Medior 1 developer",
+      "createdAt": 1601533368379
+    },
+    {
+      "id": 4,
+      "name": "Medior 2",
+      "description": "Medior 2 developer",
+      "createdAt": 1601533368479
+    },
+    {
+      "id": 5,
+      "name": "Senior 1",
+      "description": "Senior 1 developer",
+      "createdAt": 1601533368579
+    },
+    {
+      "id": 6,
+      "name": "Senior 2",
+      "description": "Senior 2 developer",
+      "createdAt": 1601533368679
+    },
+    {
+      "id": 7,
+      "name": "Architect",
+      "description": "Architect",
+      "createdAt": 1601533368479
+    },
+    {
+      "name": "New idea",
+      "description": "New idea description",
+      "createdAt": 1601533645158,
+      "id": 8
+    },
+    {
+      "name": "Instructor",
+      "description": "Description of instructor",
+      "createdAt": 1601533445158,
+      "id": 9
+    }
+  ]
+}
