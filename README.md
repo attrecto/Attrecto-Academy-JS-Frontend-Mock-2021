@@ -1,1 +1,0 @@
-# georgestorefrontend_mock
