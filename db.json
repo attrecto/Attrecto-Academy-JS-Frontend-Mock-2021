@@ -4,7 +4,7 @@
       "name": "Teszt elek 1",
       "createdAt": 1601533586590,
       "id": 1,
-      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "image": "http://localhost:3001/assets/images/user-avatar.png",
       "badges": [
         {
           "id": 1
@@ -15,7 +15,7 @@
       "name": "Teszt Elek 2",
       "createdAt": 1601474484684,
       "id": 2,
-      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "image": "http://localhost:3001/assets/images/user-avatar.png",
       "badges": [
         {
           "id": 2
@@ -27,13 +27,13 @@
     },
     {
       "name": "Teszt Elek 3",
-      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "image": "http://localhost:3001/assets/images/user-avatar.png",
       "createdAt": 1601474487114,
       "id": 3
     },
     {
-      "name": "Teszt Elek 1",
-      "image": "https://trafalgarproperties.b-cdn.net/wp-content/uploads/2018/07/team-placeholder.jpg",
+      "name": "Teszt Elek 4",
+      "image": "http://localhost:3001/assets/images/user-avatar.png",
       "createdAt": 1601533029860,
       "id": 4
     }
