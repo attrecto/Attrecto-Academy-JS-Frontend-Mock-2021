@@ -37,7 +37,7 @@ const getAuth = (req) => {
 server.post("/login", (req, res) => {
   if (req.body.email) {
     res.send({
-      token: getToken(36),
+      token: getToken(req.body.email),
     });
   } else {
     res.sendStatus(401);
